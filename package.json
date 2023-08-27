@@ -1,0 +1,21 @@
+{
+  "name": "rsjx_ejercicio",
+  "version": "1.0.0",
+  "description": "authorization_service exercise",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "npx nodemon"
+  },
+  "author": "keiber",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.6",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
